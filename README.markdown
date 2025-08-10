@@ -18,7 +18,7 @@ Install RedBomberBD on Termux with these commands:
 pkg update -y && pkg upgrade -y
 pkg install python -y
 pkg install git -y
-git clone https://github.com/Redwiat/RedBomberBD.git
+git clone https://github.com/Nahian1269/SMSBOT.git
 cd RedBomberBD
 pip install requests colorama
 python redbombbd.py
